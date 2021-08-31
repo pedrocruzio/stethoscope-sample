@@ -202,5 +202,11 @@
     "cal_total": 2581,
     "score": 49
   },
-  "30": {}
+  "30": {
+    "steps": 3539,
+    "total": 140,
+    "cal_active": 191,
+    "cal_total": 2521,
+    "score": 45
+  }
 }
