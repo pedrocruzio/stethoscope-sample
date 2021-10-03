@@ -1,12 +1,18 @@
 {
   "1": {
-    "steps": 297,
-    "total": 7,
-    "cal_active": 13,
-    "cal_total": 2091,
+    "steps": 5524,
+    "total": 267,
+    "cal_active": 307,
+    "cal_total": 2752,
     "score": 58
   },
-  "2": {},
+  "2": {
+    "steps": 6470,
+    "total": 270,
+    "cal_active": 337,
+    "cal_total": 2703,
+    "score": 50
+  },
   "3": {},
   "4": {},
   "5": {},
