@@ -32,7 +32,17 @@
     "score_sleep_balance": 65,
     "score_temperature": 100
   },
-  "2021-10-6": {},
+  "2021-10-6": {
+    "score": 68,
+    "score_activity_balance": 99,
+    "score_hrv_balance": 61,
+    "score_previous_day": 82,
+    "score_previous_night": 50,
+    "score_recovery_index": 63,
+    "score_resting_hr": 84,
+    "score_sleep_balance": 57,
+    "score_temperature": 94
+  },
   "2021-10-7": {},
   "2021-10-8": {},
   "2021-10-9": {}
