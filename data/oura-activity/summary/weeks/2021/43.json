@@ -14,14 +14,26 @@
     "score": 77
   },
   "2021-10-19": {
-    "steps": 676,
-    "total": 13,
-    "cal_active": 49,
-    "cal_total": 2147,
-    "score": 76
+    "steps": 3991,
+    "total": 176,
+    "cal_active": 232,
+    "cal_total": 2674,
+    "score": 75
   },
-  "2021-10-20": {},
-  "2021-10-21": {},
+  "2021-10-20": {
+    "steps": 14695,
+    "total": 300,
+    "cal_active": 1130,
+    "cal_total": 3631,
+    "score": 82
+  },
+  "2021-10-21": {
+    "steps": 420,
+    "total": 22,
+    "cal_active": 33,
+    "cal_total": 2136,
+    "score": 81
+  },
   "2021-10-22": {},
   "2021-10-23": {}
 }
