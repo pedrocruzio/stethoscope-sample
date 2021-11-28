@@ -54,6 +54,16 @@
     "score_sleep_balance": 54,
     "score_temperature": 100
   },
-  "2021-11-26": {},
+  "2021-11-26": {
+    "score": 70,
+    "score_activity_balance": 94,
+    "score_hrv_balance": 51,
+    "score_previous_day": 97,
+    "score_previous_night": 61,
+    "score_recovery_index": 85,
+    "score_resting_hr": 82,
+    "score_sleep_balance": 54,
+    "score_temperature": 100
+  },
   "2021-11-27": {}
 }
