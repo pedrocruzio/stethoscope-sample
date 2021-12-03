@@ -46,5 +46,14 @@
     "light": 336660,
     "score": 1858
   },
-  "12": {}
+  "12": {
+    "total": 41700,
+    "rem": 14850,
+    "awake": 9360,
+    "deep": 11430,
+    "duration": 51060,
+    "efficiency": 162,
+    "light": 15420,
+    "score": 146
+  }
 }

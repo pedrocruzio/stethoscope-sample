@@ -1,6 +1,24 @@
 {
-  "1": {},
-  "2": {},
+  "1": {
+    "total": 14100,
+    "rem": 5760,
+    "awake": 3720,
+    "deep": 4050,
+    "duration": 17820,
+    "efficiency": 79,
+    "light": 4290,
+    "score": 61
+  },
+  "2": {
+    "total": 27600,
+    "rem": 9090,
+    "awake": 5640,
+    "deep": 7380,
+    "duration": 33240,
+    "efficiency": 83,
+    "light": 11130,
+    "score": 85
+  },
   "3": {},
   "4": {},
   "5": {},
