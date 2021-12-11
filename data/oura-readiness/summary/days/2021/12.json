@@ -88,11 +88,11 @@
     "score_temperature": 99
   },
   "9": {
-    "score": 81,
+    "score": 80,
     "score_activity_balance": 72,
     "score_hrv_balance": 87,
     "score_previous_day": 79,
-    "score_previous_night": 92,
+    "score_previous_night": 89,
     "score_recovery_index": 100,
     "score_resting_hr": 74,
     "score_sleep_balance": 71,
