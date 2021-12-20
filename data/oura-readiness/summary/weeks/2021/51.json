@@ -55,5 +55,15 @@
     "score_sleep_balance": 74,
     "score_temperature": 100
   },
-  "2021-12-18": {}
+  "2021-12-18": {
+    "score": 61,
+    "score_activity_balance": 68,
+    "score_hrv_balance": 18,
+    "score_previous_day": 84,
+    "score_previous_night": 76,
+    "score_recovery_index": 91,
+    "score_resting_hr": 33,
+    "score_sleep_balance": 72,
+    "score_temperature": 99
+  }
 }
