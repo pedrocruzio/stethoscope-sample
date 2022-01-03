@@ -9,5 +9,14 @@
     "light": 1780440,
     "score": 10567
   },
-  "2022": {}
+  "2022": {
+    "total": 24630,
+    "rem": 6150,
+    "awake": 6210,
+    "deep": 6120,
+    "duration": 30840,
+    "efficiency": 80,
+    "light": 12360,
+    "score": 70
+  }
 }
