@@ -41,7 +41,17 @@
     "score_sleep_balance": 58,
     "score_temperature": 63
   },
-  "2022-01-6": {},
+  "2022-01-6": {
+    "score": 76,
+    "score_activity_balance": 92,
+    "score_hrv_balance": 29,
+    "score_previous_day": 81,
+    "score_previous_night": 100,
+    "score_recovery_index": 100,
+    "score_resting_hr": 92,
+    "score_sleep_balance": 64,
+    "score_temperature": 94
+  },
   "2022-01-7": {},
   "2022-01-8": {}
 }
