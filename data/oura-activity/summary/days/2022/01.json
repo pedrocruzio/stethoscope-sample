@@ -147,13 +147,19 @@
     "score": 70
   },
   "22": {
-    "steps": 26,
-    "total": 1,
-    "cal_active": 2,
-    "cal_total": 2091,
-    "score": 67
+    "steps": 4097,
+    "total": 193,
+    "cal_active": 218,
+    "cal_total": 2605,
+    "score": 68
   },
-  "23": {},
+  "23": {
+    "steps": 2373,
+    "total": 90,
+    "cal_active": 135,
+    "cal_total": 2328,
+    "score": 57
+  },
   "24": {},
   "25": {},
   "26": {},
