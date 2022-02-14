@@ -1,7 +1,5 @@
-[
-  {
-    "summary_date": "2022-02-13",
-    "period_id": 1,
+{
+  "2022-02-13": {
     "score": 78,
     "score_activity_balance": 41,
     "score_hrv_balance": 98,
@@ -10,7 +8,12 @@
     "score_recovery_index": 85,
     "score_resting_hr": 86,
     "score_sleep_balance": 65,
-    "score_temperature": 95,
-    "rest_mode_state": 0
-  }
-]
+    "score_temperature": 95
+  },
+  "2022-02-14": {},
+  "2022-02-15": {},
+  "2022-02-16": {},
+  "2022-02-17": {},
+  "2022-02-18": {},
+  "2022-02-19": {}
+}
