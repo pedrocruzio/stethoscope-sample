@@ -246,11 +246,11 @@
     "score_activity_balance": 67,
     "score_hrv_balance": 79,
     "score_previous_day": 89,
-    "score_previous_night": 52,
-    "score_recovery_index": 87,
+    "score_previous_night": 49,
+    "score_recovery_index": 94,
     "score_resting_hr": 90,
-    "score_sleep_balance": 82,
-    "score_temperature": 95
+    "score_sleep_balance": 83,
+    "score_temperature": 100
   },
   "24": {},
   "25": {},
