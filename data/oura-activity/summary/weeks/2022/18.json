@@ -14,13 +14,25 @@
     "score": 85
   },
   "2022-04-26": {
-    "steps": 7549,
-    "total": 223,
-    "cal_active": 389,
-    "cal_total": 2821,
-    "score": 84
+    "steps": 7704,
+    "total": 233,
+    "cal_active": 430,
+    "cal_total": 2913,
+    "score": 83
   },
-  "2022-04-27": {},
-  "2022-04-28": {},
+  "2022-04-27": {
+    "steps": 6756,
+    "total": 191,
+    "cal_active": 366,
+    "cal_total": 2803,
+    "score": 69
+  },
+  "2022-04-28": {
+    "steps": 285,
+    "total": 12,
+    "cal_active": 13,
+    "cal_total": 2153,
+    "score": 71
+  },
   "2022-04-29": {}
 }
