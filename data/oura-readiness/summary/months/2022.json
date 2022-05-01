@@ -37,10 +37,10 @@
     "score_activity_balance": 1765,
     "score_hrv_balance": 2561,
     "score_previous_day": 2106,
-    "score_previous_night": 2163,
-    "score_recovery_index": 2113,
+    "score_previous_night": 2153,
+    "score_recovery_index": 2131,
     "score_resting_hr": 2298,
-    "score_sleep_balance": 2303,
+    "score_sleep_balance": 2305,
     "score_temperature": 2623
   },
   "5": {},
