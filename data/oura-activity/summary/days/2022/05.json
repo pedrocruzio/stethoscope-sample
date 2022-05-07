@@ -28,14 +28,26 @@
     "score": 88
   },
   "5": {
-    "steps": 6723,
-    "total": 178,
-    "cal_active": 335,
-    "cal_total": 2602,
-    "score": 85
+    "steps": 9948,
+    "total": 246,
+    "cal_active": 532,
+    "cal_total": 2918,
+    "score": 84
   },
-  "6": {},
-  "7": {},
+  "6": {
+    "steps": 9752,
+    "total": 225,
+    "cal_active": 496,
+    "cal_total": 2859,
+    "score": 83
+  },
+  "7": {
+    "steps": 45,
+    "total": 2,
+    "cal_active": 3,
+    "cal_total": 2091,
+    "score": 77
+  },
   "8": {},
   "9": {},
   "10": {},
