@@ -57,7 +57,16 @@
     "duration": 29040,
     "efficiency": 87,
     "light": 15540,
-    "score": 76
+    "score": 79
   },
-  "2022-05-7": {}
+  "2022-05-7": {
+    "total": 25920,
+    "rem": 6420,
+    "awake": 3420,
+    "deep": 9210,
+    "duration": 29340,
+    "efficiency": 88,
+    "light": 10290,
+    "score": 76
+  }
 }
