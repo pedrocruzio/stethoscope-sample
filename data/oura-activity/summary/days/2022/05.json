@@ -112,15 +112,33 @@
     "score": 75
   },
   "17": {
-    "steps": 1174,
-    "total": 51,
-    "cal_active": 70,
-    "cal_total": 2203,
-    "score": 75
+    "steps": 16276,
+    "total": 366,
+    "cal_active": 983,
+    "cal_total": 3422,
+    "score": 91
   },
-  "18": {},
-  "19": {},
-  "20": {},
+  "18": {
+    "steps": 6343,
+    "total": 282,
+    "cal_active": 352,
+    "cal_total": 2789,
+    "score": 81
+  },
+  "19": {
+    "steps": 7108,
+    "total": 317,
+    "cal_active": 372,
+    "cal_total": 2797,
+    "score": 88
+  },
+  "20": {
+    "steps": 1696,
+    "total": 81,
+    "cal_active": 88,
+    "cal_total": 2228,
+    "score": 85
+  },
   "21": {},
   "22": {},
   "23": {},
