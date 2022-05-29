@@ -259,8 +259,26 @@
     "light": 11160,
     "score": 67
   },
-  "27": {},
-  "28": {},
+  "27": {
+    "total": 25980,
+    "rem": 8460,
+    "awake": 5700,
+    "deep": 5760,
+    "duration": 31680,
+    "efficiency": 82,
+    "light": 11760,
+    "score": 72
+  },
+  "28": {
+    "total": 31350,
+    "rem": 8430,
+    "awake": 5790,
+    "deep": 7500,
+    "duration": 37140,
+    "efficiency": 84,
+    "light": 15420,
+    "score": 88
+  },
   "29": {},
   "30": {}
 }
