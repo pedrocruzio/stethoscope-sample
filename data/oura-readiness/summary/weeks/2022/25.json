@@ -21,7 +21,17 @@
     "score_sleep_balance": 79,
     "score_temperature": 90
   },
-  "2022-06-14": {},
+  "2022-06-14": {
+    "score": 47,
+    "score_activity_balance": 78,
+    "score_hrv_balance": 43,
+    "score_previous_day": 66,
+    "score_previous_night": 40,
+    "score_recovery_index": 37,
+    "score_resting_hr": 3,
+    "score_sleep_balance": 65,
+    "score_temperature": 82
+  },
   "2022-06-15": {},
   "2022-06-16": {},
   "2022-06-17": {},
