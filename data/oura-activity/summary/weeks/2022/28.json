@@ -28,12 +28,18 @@
     "score": 75
   },
   "2022-07-7": {
-    "steps": 8615,
-    "total": 92,
-    "cal_active": 433,
-    "cal_total": 2582,
-    "score": 82
+    "steps": 12975,
+    "total": 269,
+    "cal_active": 680,
+    "cal_total": 3224,
+    "score": 76
   },
-  "2022-07-8": {},
+  "2022-07-8": {
+    "steps": 9177,
+    "total": 172,
+    "cal_active": 539,
+    "cal_total": 2763,
+    "score": 83
+  },
   "2022-07-9": {}
 }
