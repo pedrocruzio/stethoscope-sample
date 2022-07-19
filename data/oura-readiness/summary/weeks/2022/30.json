@@ -10,7 +10,17 @@
     "score_sleep_balance": 52,
     "score_temperature": 86
   },
-  "2022-07-18": {},
+  "2022-07-18": {
+    "score": 62,
+    "score_activity_balance": 77,
+    "score_hrv_balance": 25,
+    "score_previous_day": 87,
+    "score_previous_night": 57,
+    "score_recovery_index": 67,
+    "score_resting_hr": 91,
+    "score_sleep_balance": 53,
+    "score_temperature": 100
+  },
   "2022-07-19": {},
   "2022-07-20": {},
   "2022-07-21": {},
