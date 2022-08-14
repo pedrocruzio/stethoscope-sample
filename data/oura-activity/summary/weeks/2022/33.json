@@ -35,11 +35,17 @@
     "score": 91
   },
   "2022-08-12": {
-    "steps": 4749,
-    "total": 139,
-    "cal_active": 260,
-    "cal_total": 2476,
-    "score": 93
+    "steps": 21833,
+    "total": 573,
+    "cal_active": 1215,
+    "cal_total": 3801,
+    "score": 95
   },
-  "2022-08-13": {}
+  "2022-08-13": {
+    "steps": 4066,
+    "total": 123,
+    "cal_active": 219,
+    "cal_total": 2465,
+    "score": 97
+  }
 }
