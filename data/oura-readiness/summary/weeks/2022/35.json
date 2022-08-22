@@ -1,7 +1,5 @@
-[
-  {
-    "summary_date": "2022-08-21",
-    "period_id": 1,
+{
+  "2022-08-21": {
     "score": 81,
     "score_activity_balance": 69,
     "score_hrv_balance": 65,
@@ -10,7 +8,12 @@
     "score_recovery_index": 100,
     "score_resting_hr": 98,
     "score_sleep_balance": 77,
-    "score_temperature": 95,
-    "rest_mode_state": 0
-  }
-]
+    "score_temperature": 95
+  },
+  "2022-08-22": {},
+  "2022-08-23": {},
+  "2022-08-24": {},
+  "2022-08-25": {},
+  "2022-08-26": {},
+  "2022-08-27": {}
+}
