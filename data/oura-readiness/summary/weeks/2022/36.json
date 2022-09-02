@@ -32,6 +32,17 @@
     "score_sleep_balance": 77,
     "score_temperature": 96
   },
+  "2022-08-31": {
+    "score": 62,
+    "score_activity_balance": 60,
+    "score_hrv_balance": 99,
+    "score_previous_day": 35,
+    "score_previous_night": 25,
+    "score_recovery_index": 40,
+    "score_resting_hr": 92,
+    "score_sleep_balance": 63,
+    "score_temperature": 100
+  },
   "2022-09-1": {},
   "2022-09-2": {},
   "2022-09-3": {}
