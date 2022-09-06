@@ -1,15 +1,24 @@
 {
   "2022-09-4": {
-    "total": 0,
-    "rem": 0,
-    "awake": 600,
-    "deep": 0,
-    "duration": 600,
-    "efficiency": 0,
-    "light": 0,
-    "score": 31
+    "total": 15840,
+    "rem": 3300,
+    "awake": 2940,
+    "deep": 5010,
+    "duration": 18780,
+    "efficiency": 84,
+    "light": 7530,
+    "score": 62
   },
-  "2022-09-5": {},
+  "2022-09-5": {
+    "total": 6390,
+    "rem": 780,
+    "awake": 4530,
+    "deep": 4680,
+    "duration": 10920,
+    "efficiency": 59,
+    "light": 930,
+    "score": 44
+  },
   "2022-09-6": {},
   "2022-09-7": {},
   "2022-09-8": {},
