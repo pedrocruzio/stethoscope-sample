@@ -49,8 +49,26 @@
     "light": 8370,
     "score": 81
   },
-  "6": {},
-  "7": {},
+  "6": {
+    "total": 25980,
+    "rem": 7890,
+    "awake": 8040,
+    "deep": 7380,
+    "duration": 34020,
+    "efficiency": 76,
+    "light": 10710,
+    "score": 80
+  },
+  "7": {
+    "total": 210,
+    "rem": 30,
+    "awake": 2430,
+    "deep": 30,
+    "duration": 2640,
+    "efficiency": 8,
+    "light": 150,
+    "score": 21
+  },
   "8": {},
   "9": {},
   "10": {},
