@@ -40,15 +40,24 @@
     "score": 73
   },
   "2022-09-8": {
-    "total": 450,
-    "rem": 180,
-    "awake": 990,
-    "deep": 30,
-    "duration": 1440,
-    "efficiency": 31,
-    "light": 240,
-    "score": 24
+    "total": 27570,
+    "rem": 7680,
+    "awake": 7530,
+    "deep": 6870,
+    "duration": 35100,
+    "efficiency": 79,
+    "light": 13020,
+    "score": 84
   },
-  "2022-09-9": {},
+  "2022-09-9": {
+    "total": 1170,
+    "rem": 60,
+    "awake": 2190,
+    "deep": 30,
+    "duration": 3360,
+    "efficiency": 35,
+    "light": 1080,
+    "score": 27
+  },
   "2022-09-10": {}
 }
