@@ -18,7 +18,7 @@
     "light": 6330,
     "midpoint_time": 11370,
     "efficiency": 86,
-    "restless": 100,
+    "restless": 17,
     "onset_latency": 1020,
     "got_up_count": 0,
     "wake_up_count": 10,
@@ -99,7 +99,7 @@
       68,
       70
     ],
-    "hr_average": 68.5,
+    "hr_average": 68.814,
     "hr_lowest": 60,
     "lowest_heart_rate_time_offset": 12600,
     "hypnogram_5min": "444211111142111114332221111111111133333222222221121112223333334222221111244",
