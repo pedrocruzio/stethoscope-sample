@@ -11,14 +11,14 @@
     "score_temperature": 13676
   },
   "2022": {
-    "score": 18062,
-    "score_activity_balance": 18091,
-    "score_hrv_balance": 17478,
-    "score_previous_day": 19861,
-    "score_previous_night": 18030,
-    "score_recovery_index": 17463,
-    "score_resting_hr": 19142,
-    "score_sleep_balance": 17198,
-    "score_temperature": 23609
+    "score": 18106,
+    "score_activity_balance": 18144,
+    "score_hrv_balance": 17536,
+    "score_previous_day": 19940,
+    "score_previous_night": 18078,
+    "score_recovery_index": 17489,
+    "score_resting_hr": 19182,
+    "score_sleep_balance": 17223,
+    "score_temperature": 23708
   }
 }
