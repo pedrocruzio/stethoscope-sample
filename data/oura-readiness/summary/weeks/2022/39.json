@@ -1,6 +1,5 @@
-[
-  {
-    "summary_date": "2022-09-18",
+{
+  "2022-09-18": {
     "score": 33,
     "score_activity_balance": 61,
     "score_hrv_balance": 17,
@@ -10,5 +9,11 @@
     "score_resting_hr": 10,
     "score_sleep_balance": 57,
     "score_temperature": 83
-  }
-]
+  },
+  "2022-09-19": {},
+  "2022-09-20": {},
+  "2022-09-21": {},
+  "2022-09-22": {},
+  "2022-09-23": {},
+  "2022-09-24": {}
+}
