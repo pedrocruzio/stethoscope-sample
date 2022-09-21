@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "summary_date": "2022-09-19",
+    "score": 72,
+    "score_activity_balance": 67,
+    "score_hrv_balance": 38,
+    "score_previous_day": 93,
+    "score_previous_night": 72,
+    "score_recovery_index": 100,
+    "score_resting_hr": 99,
+    "score_sleep_balance": 60,
+    "score_temperature": 97
+  }
+]
