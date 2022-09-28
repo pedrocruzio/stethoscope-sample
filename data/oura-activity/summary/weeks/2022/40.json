@@ -14,12 +14,18 @@
     "score": 77
   },
   "2022-09-27": {
-    "steps": 806,
-    "total": 40,
-    "cal_active": 43,
-    "cal_total": 2157,
-    "score": 77
+    "steps": 11456,
+    "total": 214,
+    "cal_active": 824,
+    "cal_total": 3192,
+    "score": 84
   },
-  "2022-09-28": {},
+  "2022-09-28": {
+    "steps": 374,
+    "total": 17,
+    "cal_active": 18,
+    "cal_total": 2104,
+    "score": 83
+  },
   "2022-09-29": {}
 }
