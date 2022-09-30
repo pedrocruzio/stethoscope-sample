@@ -2,7 +2,6 @@
   {
     "summary_date": "2022-09-27",
     "period_id": 1,
-    "timestamp": "2022-09-28T00:00:00.000Z",
     "is_longest": 1,
     "timezone": 540,
     "bedtime_end": "2022-09-28T07:18:48+09:00",
@@ -18,7 +17,7 @@
     "light": 8610,
     "midpoint_time": 13290,
     "efficiency": 89,
-    "restless": 22,
+    "restless": 4,
     "onset_latency": 450,
     "got_up_count": 0,
     "wake_up_count": 11,
@@ -113,7 +112,7 @@
     ],
     "hr_average": 62.753,
     "hr_lowest": 55,
-    "lowest_heart_rate_time_offset": 12000,
+    "lowest_heart_rate_time_offset": 3090,
     "hypnogram_5min": "423111244122111111111114333332222111111112221223333333222222222222222122223333333343334",
     "rmssd": 54,
     "rmssd_5min": [
